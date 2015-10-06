@@ -9,7 +9,7 @@ package itask;
 /**
  *
  * @version 1.0
- * @author Usuario
+
  */
 public class ITask {
 
